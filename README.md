@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de aprendizado de React.
+Ao fornecer o nome de um repositorio GitHub, a api é acionada e verifica a existencia do mesmo.
+Caso afirmativo, mostra na listagem, do contrario, uma mensagem de erro é apresentada.
 
 ## Available Scripts
 
